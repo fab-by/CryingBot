@@ -1,0 +1,22 @@
+2022-10-05 14:19:06 [[32minfo[39m] [[36mDatabase[39m] Mongoose connection connected
+2022-10-05 14:19:06 [[32minfo[39m] [[36mReady[39m] Crying#5399 is ready to serve 2 guilds.
+2022-10-05 14:19:07 [[32minfo[39m] [[36mDashboard[39m] Listening on port 8512
+2022-10-05 14:31:23 [[32minfo[39m] [[36mCommand[39m] "cry.help" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:31:31 [[32minfo[39m] [[36mCommand[39m] "cry.help owner" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:31:40 [[32minfo[39m] [[36mCommand[39m] "cry.addpremium" (addpremium) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:31:48 [[32minfo[39m] [[36mCommand[39m] "cry.addpremium year" (addpremium) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:32:31 [[32minfo[39m] [[36mCommand[39m] "cry.help" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:32:41 [[32minfo[39m] [[36mCommand[39m] "cry.help utility" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:32:51 [[32minfo[39m] [[36mCommand[39m] "cry.help moderation" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:33:11 [[32minfo[39m] [[36mCommand[39m] "cry.shorturl burh.com" (shorturl) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:33:53 [[32minfo[39m] [[36mCommand[39m] "cry.help owner" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:33:59 [[32minfo[39m] [[36mCommand[39m] "cry.addbadge <@258711360236421131>" (addbadge) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:34:22 [[32minfo[39m] [[36mCommand[39m] "cry.addbadge" (addbadge) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:34:33 [[32minfo[39m] [[36mCommand[39m] "cry.servers" (servers) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:35:00 [[32minfo[39m] [[36mCommand[39m] "cry.help" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:35:16 [[32minfo[39m] [[36mCommand[39m] "cry.help information" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:35:27 [[32minfo[39m] [[36mCommand[39m] "cry.help config" (help) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:35:34 [[32minfo[39m] [[36mCommand[39m] "cry.settings" (settings) ran by "Fabra#5272" (258711360236421131) on guild "Fabra's Bots" (1023979674495352863) channel "#〔🤖〕bot-commands" (1023979675569111095)
+2022-10-05 14:53:13 [[32minfo[39m] [[36mDatabase[39m] Mongoose connection connected
+2022-10-05 14:53:14 [[32minfo[39m] [[36mReady[39m] Crying#5399 is ready to serve 2 guilds.
+2022-10-05 14:53:14 [[32minfo[39m] [[36mDashboard[39m] Listening on port 80

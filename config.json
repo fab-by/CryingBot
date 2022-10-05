@@ -1,0 +1,34 @@
+{
+  "developers": [ "258711360236421131" ],
+  "status": "cry.help | bot.crying.tk",
+  "discord": "",
+  "dashboard": "true",
+  "server": "1023979674495352863",
+  "prefix": "cry.",
+  "webhooks": {
+    "logs": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "maintenance_logs": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "ratelimit_logs": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "blacklist": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "report": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "contact": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "bugs": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "premium": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "suggestions": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "votes": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "errors": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "auth": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "joinsPublic": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "joinsPrivate": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "leavesPublic": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07",
+    "leavesPrivate": "https://discord.com/api/webhooks/1027283641262411836/qRhAWdSlGE5BP3GRj_yRJNXTzhCbaJPZSla4zrmjeiPIoyNm1vPHLzpWPfg6u0Dpmt07"
+  },
+  "maintenance": "false",
+  "maintenance_threshold": "3",
+  "invite_link": "https://discord.gg/Tpf38PFC",
+  "seo": {
+    "enabled": "false",
+    "title": "",
+    "description": ""
+  }
+}
